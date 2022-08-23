@@ -7,4 +7,4 @@ npm i -g express-generator
 ```
 express  --view=ejs 
 ```
-ejs -> views폴더 파일 형식
+ejs -> views폴더 파일 확장명
