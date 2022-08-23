@@ -5,6 +5,6 @@ npm i -g express-generator
 ```
 ● node.js 작업을위한 기본 파일 생성
 ```
-express  --view=ejs 
+express --view=ejs 
 ```
 ejs -> views폴더 파일 확장명
